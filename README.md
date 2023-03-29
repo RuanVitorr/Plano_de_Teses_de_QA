@@ -36,7 +36,7 @@ Com esse documento, você deve:
   - Seletor de quantidade de produtos pode ser incrementeado com opção de aumentar e diminuir quantidade desejada.
   - Adicionar uma sub categoria das categorias dos produtos exemplo: calças -jeans - Mom - Legging e etc.
   - Lista de desejo precisa ser melhorado no sentido de que ao passar o mouse por cima do produto a imagem fica desaparecendo e aparecendo freneticamente.
-  - Interface de minha conta pode fica melhor se colocar mais cores eseparações de informacões, pois parece uma coisa só ao abrir.
+  - Interface de "minha conta" pode fica melhor se colocar mais cores eseparações de informacões, pois parece uma coisa só ao abrir.
   - Segurança ao fazer alterações em "editar informações da conta" exigindo digitar a senha para que confirme que é realemente o proprietário da conta.
   - Colocar opção de adicionar um metodo de pagamento sem precisar necessariamente comprar um produto.
   - Colocar indicador de quantidade de itens na lista de desejos.
